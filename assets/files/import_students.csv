@@ -1,0 +1,6 @@
+registration_number,roll,first_name,last_name,date_of_birth,gender,mobile_no,email,admission_date,blood_group,height,weight,birth_registration_no,guardian_first_name,guardian_last_name,guardian_relation,guardian_nid,guardian_phone,guardian_email,permanent_address,nid,previous_school,note,religion
+400,298,AISSA,HIBA,1/12/2995,1,0 6 49 23 64,student1@demo.com,6/14/2020,O+,5.6,60,544656,OBLEID  ,MOHAMMED,1,123456,1234567894,guardian1@mail.com,BD ZAYD IBN SULTANE LOT BAYT BAHIA N?29,ABC45345,school name,DEMO NOTE,2
+501,299,MAHMOUD,HIBA,1/13/2995,2,0 6 69 68 69,student2@demo.com,6/14/2020,B+,5.8,58,544657,OUBERRI,MOHAMMED,1,123456,1234567895,guardian2@mail.com,RTE TAZA HAY LOUAHDA N?17,ABC68967867,school name,DEMO NOTE,1
+502,300,HIBA,WALID,1/14/2995,1,0 6 69 68 70,student3@demo.com,6/14/2020,O+,5.7,57,544658,AKHMOUL,EL HASSANE,1,123456,1234567896,guardian3@mail.com,BD ZAYD IBN SULTANE LOT BAYT BAHIA N?30,3433443GFGDF,school name,DEMO NOTE,3
+503,301,CHAYMAE,WALID ,1/15/2995,2,0 4 56 46 46,student4@demo.com,6/14/2020,O+,5.4,59,544659,MIRHOUM,SOUAD,2,123456,1234567897,guardian4@mail.com,HAY JAWHARA RUE C NR 39 OUJDA,3433443GFGDE,school name,DEMO NOTE,1
+504,302,WALID,MAHMOUD,1/16/2995,1,0 5 88 97 59,student5@demo.com,6/14/2020,O+,5.5,55,544660,KARMOUN,ABDELKRIM,1,123456,1234567898,guardian5@mail.com,RTE TAZA HAY LOUAHDA N?18,3433443GFGDW,school name,DEMO NOTE,3
